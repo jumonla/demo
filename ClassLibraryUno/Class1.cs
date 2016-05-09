@@ -16,5 +16,11 @@ namespace ClassLibraryUno
 
             return "MENSAJE OCULTO";
         }
+
+        public string mensaje2()
+        {
+
+            return "MENSAJE2 OCULTO";
+        }
     }
 }
