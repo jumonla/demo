@@ -11,5 +11,10 @@ namespace ClassLibraryUno
         public void foo() { 
         
         }
+
+        public string mensaje() {
+
+            return "MENSAJE OCULTO";
+        }
     }
 }
